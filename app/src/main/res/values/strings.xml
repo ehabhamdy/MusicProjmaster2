@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+
+    <string-array name="country_names">
+        <item>Germany</item>
+        <item>India</item>
+        <item>Italy</item>
+        <item>Norway</item>
+        <item>Isil</item>
+        <item>Mexico</item>
+        <item>Brazil</item>
+        <item>UnitedStates</item>
+        <item>Spain</item>
+    </string-array>
+</resources>
